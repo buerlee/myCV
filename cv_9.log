@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.6)  6 NOV 2014 14:26
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2014.11.6)  23 JAN 2015 08:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -866,33 +866,33 @@ Overfull \hbox (37.28336pt too wide) in paragraph at lines 88--101
  []
 
 
-Overfull \hbox (14.34033pt too wide) in paragraph at lines 148--239
+Overfull \hbox (14.34033pt too wide) in paragraph at lines 150--243
 [][] 
  []
 
 [1
 
 ]
-Overfull \vbox (46.74509pt too high) has occurred while \output is active []
+Overfull \vbox (56.24509pt too high) has occurred while \output is active []
 
 
 [2]
-Overfull \hbox (17.2203pt too wide) in paragraph at lines 284--322
+Overfull \hbox (17.2203pt too wide) in paragraph at lines 288--326
 [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 327.
  (./cv_9.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 323.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 323.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 323.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 327.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 327.
  ) 
 Here is how much of TeX's memory you used:
  21196 strings out of 495643
  389586 string characters out of 6187227
- 458210 words of memory out of 5000000
+ 459210 words of memory out of 5000000
  24195 multiletter control sequences out of 15000+600000
  4192 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
